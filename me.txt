@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+are there any changes???
 My name is jayde ruelcke
 my life goal is to prank amanda
 repeatedly
@@ -12,4 +15,19 @@ I said we should be focusing our pranking efforts on Anup. Remember, we have acc
 
 Tomorrow will be a good day if you want to do anything. I will only allow access with no involvement in prank. This still doen't change our focus on you Amanda.
 
+<<<<<<< HEAD
 Trying to connect via command line.
+=======
+There is plenty of time to prank everyone
+=======
+JAYDE YOU'VE BEEN PRANKED
+JAYDE YOU'VE BEEN PRANKED
+JAYDE YOU'VE BEEN PRANKED
+JAYDE YOU'VE BEEN PRANKED
+JAYDE YOU'VE BEEN PRANKED
+
+GET WRECKED
+GIT WRECKED
+PRANKED
+>>>>>>> 81e69794ead57d7ebe73159353f0bfcd5046e66c
+>>>>>>> 7c1c4659eb2d7f58e004f0278b024845d8ac2de2
